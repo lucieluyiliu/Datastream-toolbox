@@ -13,6 +13,8 @@ Downloading higher frequency data from Datastream excel needs to be done in batc
 
 Here the example is daily return, and querey is run for each year.
 
+ReuqestTable.xslm is a template request table with lists prespecified in column E. 
+
 """
 import win32com.client as win32 
 import os
