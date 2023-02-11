@@ -1,0 +1,54 @@
+country name,ISO,ISO3,region,isem,worldscope code
+Argentina,AR,ARG,Latin America,EM,WSCOPEAR
+Australia,AU,AUS,Asia Pacific,DM,WSCOPEAU
+Austria,AT,AUT,Europe,DM,WSCOPEOE
+Belgium,BE,BEL,Europe,DM,WSCOPEBG
+Brazil,BR,BRA,Latin America,EM,WSCOPEBR
+Canada,CA,CAN,North America,DM,WSCOPECN
+Chile,CL,CHL,Latin America,EM,WSCOPECL
+China,CN,CHN,Emerging Asia,EM,WSCOPECH
+Colombia,CO,COL,Latin America,EM,WSCOPECB
+Czech Republic,CZ,CZE,Europe,EM,WSCOPECZ
+Denmark,DK,DNK,Europe,DM,WSCOPEDK
+Egypt,EG,EGY,Emerging EMEA,EM,WSCOPEEY
+Finland,FI,FIN,Europe,DM,WSCOPEFN
+France,FR,FRA,Europe,DM,WSCOPEFR
+Germany,DE,DEU,Europe,DM,WSCOPEBD
+Greece,GR,GRC,Europe,EM,WSCOPEGR
+Hong Kong,HK,HKG,Asia Pacific,DM,WSCOPEHK
+Hungary,HU,HUN,Europe,EM,WSCOPEHN
+India,IN,IND,Asia Pacific,EM,WSCOPEIN
+Indonesia,ID,IDN,Asia Pacific,EM,WSCOPEID
+Ireland,IE,IRL,Europe,DM,WSCOPEIR
+Israel,IL,ISR,Middle East and Africa,DM,WSCOPEIS
+Italy,IT,ITA,Europe,DM,WSCOPEIT
+Japan,JP,JPN,Asia Pacific,DM,WSCOPEJP
+Kuwait,KW,KWT,Middle East and Africa,EM,WSCOPEKW
+Luxembourg,LU,LUX,Europe,DM,WSCOPELX
+Malaysia,MY,MYS,Asia Pacific,EM,WSCOPEMY
+Mexico,MX,MEX,Latin America,EM,WSCOPEMX
+Morocco,MA,MAR,Middle East and Africa,FM,WSCOPEMC
+Netherlands,NL,NLD,Europe,DM,WSCOPENL
+New Zealand,NZ,NZL,Asia Pacific,DM,WSCOPENZ
+Norway,NO,NOR,Europe,DM,WSCOPENW
+Pakistan,PK,PAK,Asia Pacific,DM,WSCOPEPK
+Peru,PE,PER,Latin America,FM,WSCOPEPE
+Philippines,PH,PHL,Asia Pacific,EM,WSCOPEPH
+Poland,PL,POL,Europe,EM,WSCOPEPO
+Portugal,PT,PRT,Europe,DM,WSCOPEPT
+Qatar,QA,QAT,Middle East and Africa,EM,WSCOPEQA
+Romania,RO,ROU,Europe,EM,WSCOPERM
+Russia,RU,RUS,Asia Pacific,EM,WSCOPERS
+Saudi Arabia,SA,SAU,Middle East and Africa,EM,WSCOPESI
+Singapore,SG,SGP,Asia Pacific,DM,WSCOPESG
+South Africa,ZA,ZAF,Middle East and Africa,EM,WSCOPESA
+South Korea,KR,KOR,Asia Pacific,EM,WSCOPEKO
+Spain,ES,ESP,Europe,DM,WSCOPEES
+Sweden,SE,SWE,Europe,DM,WSCOPESD
+Switzerland,CH,CHE,Europe,DM,WSCOPESW
+Taiwan,TW,TWN,Asia Pacific,EM,WSCOPETA
+Thailand,TH,THA,Asia Pacific,EM,WSCOPETH
+Turkey,TR,TUR,Middle East and Africa,EM,WSCOPETK
+UAE,AE,ARE,Middle East and Africa,EM,WSCOPEAE
+UK,GB,GBR,Europe,DM,WSCOPEUK
+US,US,USA,North America,DM,WSCOPEUS
