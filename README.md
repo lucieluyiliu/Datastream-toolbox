@@ -18,5 +18,7 @@ The data retrieval process consists of the following steps:
 
 4. Download data by creating and querying a Request table. Datastream_automatic_update.py gives an example of downloading daily return data.
 
+5. Datastream repeats last available Price, MV and RI for dead stocks. Therefore need to remove time series after the last date using 'date' last available price date data from stock static table, or simply remove the time series with NULL VO. This resolves a lot of the problems with Datastream return data.
+
 
 Contact me for questions or bugs: yiliu.lu@mail.mcgill.ca
