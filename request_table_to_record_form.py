@@ -47,7 +47,7 @@ def dstorecord(variable):
     
     #convert DS string NA to python missing values
       else:
-        mergexl=mergexl.append(xl,sort=False)
+        mergexl=pd.concat([mergexl,xl])
 
     
     mergexl.to_csv('F:/Dropbox/IO-CEL/data and code/CELu codes/Datastream/Request tables/{0}.csv'.format(variable),index=False) 

@@ -8,7 +8,7 @@ Convert security information from worldscope list into one single table.
 For non-US countries, the input table is FTSE-ACWI-WSuniverse.xlsm
 for US, the input table is WSuniverseUS.xlsm
 
-The script applies filters as described in the online appendix, in particular country-specific name filters.
+The script applies filters as described in the online concatix, in particular country-specific name filters.
 The filers might not be relevant since the universe is based on WorldScope Universe.
 
 """
@@ -135,7 +135,7 @@ for i in range (1,n):  #sheets 1-52
   if i==1:
     mergexl=xl
   else:
-    mergexl=mergexl.append(xl,sort=False)
+    mergexl=mergexl.concat(xl,sort=False)
     
 
 table=pd.ExcelFile('US-WSuniverse.xlsm')
@@ -172,7 +172,7 @@ for i in range (1,n):  #sheets
     
   print('US list {0} has {1} securities after type filter \n'.format(i,len(xl)))
   
-  mergexl=mergexl.append(xl,sort=False)
+  mergexl=mergexl.concat(xl,sort=False)
     
 
 mergexl.to_csv('WSuniverse.csv',index=False)   
